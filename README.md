@@ -27,7 +27,7 @@ Text and application/pdf
 ### Format
 PDF and Text
 ### Identifier
-Identifier given to the item. An example is:narv_western_matthewDale18590427
+Identifier given to the item. An example is: narv_western_matthewDale18590427
 ### Source
 Matthew H. Dale Collection
 ### Language
